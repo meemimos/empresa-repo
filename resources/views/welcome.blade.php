@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Empresa
+                    Empresa<sup style="font-size: 32px">0.1</sup>
                 </div>
 
                 <div class="links">
