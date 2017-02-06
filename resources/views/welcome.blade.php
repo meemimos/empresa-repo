@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Empresa<sup style="font-size: 32px; color: orangered">demo-mimos</sup>
+                    Empresa<sup style="font-size: 32px; color: orangered">demo</sup>
                 </div>
 
                 <div class="links">
